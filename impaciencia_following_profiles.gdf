@@ -1,0 +1,1498 @@
+nodedef>name VARCHAR,label VARCHAR,net VARCHAR,relation VARCHAR, num_followers VARCHAR, num_following VARCHAR, num_list VARCHAR, num_statuses VARCHAR, user_TZ VARCHAR 
+1,_Impaciencia_,@_Impaciencia_,root,2,2,2,0,2017-09-06 17:40:50
+2,JMChia,@_Impaciencia_,following,4,3,3,2,2009-10-01 17:14:02
+3,IEO_Malaga,@_Impaciencia_,following,2,2,2,0,2018-03-09 16:09:46
+4,ateneomalaga,@_Impaciencia_,following,3,2,3,1,2010-02-13 12:32:25
+5,AcademiaAgp,@_Impaciencia_,following,2,2,3,1,2012-01-08 15:53:02
+6,pberbel,@_Impaciencia_,following,2,3,3,1,2009-05-05 23:17:30
+7,Opinion_Cultura,@_Impaciencia_,following,3,3,3,1,2013-11-20 11:32:23
+8,TDMalaga,@_Impaciencia_,following,3,3,4,2,2013-12-08 11:03:12
+9,ArconNatalia,@_Impaciencia_,following,2,3,3,1,2015-03-27 11:40:04
+10,acultumlg,@_Impaciencia_,following,2,2,3,1,2016-01-05 20:54:48
+11,malagadecultura,@_Impaciencia_,following,2,1,3,1,2016-02-06 08:00:49
+12,CenacheroCulto,@_Impaciencia_,following,2,2,2,0,2017-03-16 12:53:53
+13,Consejoeffyl,@_Impaciencia_,following,2,2,3,0,2015-10-14 17:18:23
+14,enchufuma,@_Impaciencia_,following,1,2,1,0,2018-03-14 14:12:55
+15,Eurekablog,@_Impaciencia_,following,4,3,4,3,2009-09-02 14:51:52
+16,Naukas_com,@_Impaciencia_,following,4,2,4,3,2010-04-01 17:46:47
+17,malagademuseos,@_Impaciencia_,following,3,2,3,1,2015-12-07 18:33:52
+18,EstDeCiencias,@_Impaciencia_,following,2,2,2,0,2016-04-08 15:27:20
+19,TendederodeAmy,@_Impaciencia_,following,3,3,4,2,2011-10-17 17:19:27
+20,AAAUMA,@_Impaciencia_,following,2,2,2,1,2011-09-06 09:03:40
+21,UIM_CIMES,@_Impaciencia_,following,1,2,2,0,2012-05-08 11:42:57
+22,LuisMartinNuez,@_Impaciencia_,following,3,2,3,1,2012-01-26 10:10:12
+23,malagabyte,@_Impaciencia_,following,2,2,2,0,2018-01-17 10:36:12
+24,ARTEKLAB,@_Impaciencia_,following,3,3,4,2,2012-03-06 15:06:01
+25,Mrs_DarkDonado,@_Impaciencia_,following,3,2,4,1,2010-08-24 09:06:54
+26,MasMlg,@_Impaciencia_,following,3,3,3,2,2013-04-05 13:09:40
+27,outecran,@_Impaciencia_,following,2,3,4,2,2009-06-29 22:23:15
+28,psicopedia,@_Impaciencia_,following,4,4,4,2,2013-05-17 20:08:38
+29,Anda_Labs,@_Impaciencia_,following,2,1,2,0,2017-04-23 09:06:39
+30,facultadcero,@_Impaciencia_,following,2,3,2,0,2017-02-26 16:53:55
+31,Abeja_Silvestre,@_Impaciencia_,following,2,1,1,0,2018-02-18 19:43:11
+32,RNFinfo,@_Impaciencia_,following,5,3,3,2,2010-04-06 02:22:24
+33,SrMitocondrio,@_Impaciencia_,following,2,2,3,0,2015-05-16 18:27:35
+34,PlusTalento,@_Impaciencia_,following,1,2,2,0,2018-01-13 16:25:32
+35,deeipugr,@_Impaciencia_,following,1,2,2,0,2016-12-05 10:08:39
+36,UNIA_UAL,@_Impaciencia_,following,2,1,2,1,2013-04-09 10:35:13
+37,UmaCalidad,@_Impaciencia_,following,2,2,2,0,2016-03-06 08:52:41
+38,lavozdealmeria,@_Impaciencia_,following,4,2,4,2,2011-02-27 11:21:37
+39,ualmeria,@_Impaciencia_,following,4,2,4,2,2011-02-15 10:19:11
+40,martacazorla,@_Impaciencia_,following,2,2,4,0,2011-03-16 18:56:55
+41,gigeando,@_Impaciencia_,following,1,2,2,0,2017-03-31 09:46:21
+42,Visuino,@_Impaciencia_,following,3,4,3,1,2017-11-21 21:46:33
+43,early_universe,@_Impaciencia_,following,2,2,2,1,2011-08-10 09:58:08
+44,MSA_UMA,@_Impaciencia_,following,2,2,2,0,2013-05-28 16:03:58
+45,LaCriaturaCreat,@_Impaciencia_,following,4,2,3,3,2013-04-07 20:00:40
+46,eversalazar,@_Impaciencia_,following,3,2,3,1,2010-01-11 04:58:22
+47,ExpertoCDDUS,@_Impaciencia_,following,1,2,1,0,2017-05-11 11:01:44
+48,conferenciacs,@_Impaciencia_,following,2,2,3,1,2014-10-27 13:03:34
+49,twitCADUS,@_Impaciencia_,following,4,2,3,2,2009-09-10 23:40:39
+50,BUSComunicacion,@_Impaciencia_,following,3,2,3,1,2012-10-26 07:34:43
+51,Biblioteca_US,@_Impaciencia_,following,3,2,4,2,2008-05-27 12:55:41
+52,pablorivero99,@_Impaciencia_,following,2,2,2,0,2012-07-15 11:51:59
+53,marinamonper,@_Impaciencia_,following,3,3,3,1,2010-07-04 14:57:33
+54,ImaginCafe,@_Impaciencia_,following,2,2,2,1,2017-02-03 10:28:25
+55,yeswetech_,@_Impaciencia_,following,3,2,3,1,2015-06-26 09:19:54
+56,victorianoi,@_Impaciencia_,following,4,2,4,2,2007-12-08 19:36:45
+57,graphext,@_Impaciencia_,following,3,1,2,2,2014-12-06 12:38:57
+58,luque_calvo,@_Impaciencia_,following,1,1,1,0,2012-09-02 14:17:59
+59,PiDaySP,@_Impaciencia_,following,3,2,2,1,2016-11-21 12:05:51
+60,rupturevents,@_Impaciencia_,following,2,2,2,0,2016-12-06 10:16:39
+61,Innovart_cc,@_Impaciencia_,following,2,2,2,1,2017-08-22 12:32:02
+62,aecomcientifica,@_Impaciencia_,following,5,2,3,3,2010-01-15 12:36:27
+63,LazaroElena,@_Impaciencia_,following,3,3,4,2,2010-01-25 12:32:08
+64,FerFrias,@_Impaciencia_,following,3,3,4,2,2009-04-11 01:03:25
+65,nature,@_Impaciencia_,following,6,2,3,3,2012-02-09 19:58:01
+66,Red_HD,@_Impaciencia_,following,3,2,2,2,2011-07-07 16:01:48
+67,CECSUCo,@_Impaciencia_,following,3,2,3,1,2011-10-25 16:14:06
+68,ConsejoEPS,@_Impaciencia_,following,3,2,3,1,2010-12-02 18:13:27
+69,ConsejoETSIAM,@_Impaciencia_,following,3,2,3,1,2011-09-07 21:54:28
+70,UCO_Ligoteo,@_Impaciencia_,following,3,3,3,0,2015-09-12 22:27:33
+71,PseudocienciaNO,@_Impaciencia_,following,2,1,3,1,2013-05-01 23:37:47
+72,UCOCultura,@_Impaciencia_,following,3,2,3,1,2011-11-08 13:39:38
+73,CECEUCO,@_Impaciencia_,following,3,2,3,1,2011-11-11 19:05:15
+74,ETSIAM_UCO,@_Impaciencia_,following,3,1,2,1,2011-06-12 18:54:38
+75,ConsejoCiencias,@_Impaciencia_,following,3,2,3,1,2011-10-20 21:28:58
+76,UCOcampus,@_Impaciencia_,following,3,2,2,1,2014-03-29 18:39:36
+77,vestudiantesUCO,@_Impaciencia_,following,3,2,3,1,2014-09-04 10:21:40
+78,Buco_es,@_Impaciencia_,following,3,2,4,2,2012-09-07 08:27:37
+79,CEUCO,@_Impaciencia_,following,3,3,3,2,2010-11-09 08:35:22
+80,FabLabCba,@_Impaciencia_,following,2,3,1,0,2017-06-02 22:56:13
+81,cei_A3,@_Impaciencia_,following,3,2,3,2,2012-04-12 09:04:05
+82,UCO_otri,@_Impaciencia_,following,2,2,3,1,2013-11-04 14:36:48
+83,RadioRho,@_Impaciencia_,following,3,2,3,1,2016-10-21 12:13:52
+84,openculture,@_Impaciencia_,following,5,2,4,4,2009-01-31 19:01:34
+85,os_weekends,@_Impaciencia_,following,3,2,3,1,2016-10-18 08:23:33
+86,radikalbytes,@_Impaciencia_,following,3,2,3,1,2008-09-06 03:41:25
+87,jgalaron,@_Impaciencia_,following,3,2,3,1,2012-03-27 09:42:09
+88,BioHackingCol,@_Impaciencia_,following,2,2,2,1,2017-05-26 04:28:08
+89,Enezetas,@_Impaciencia_,following,1,1,2,0,2017-04-11 22:42:00
+90,OuemOuemdy,@_Impaciencia_,following,1,2,2,0,2017-08-17 16:19:14
+91,leobotmanuel,@_Impaciencia_,following,2,2,3,1,2012-05-26 15:50:53
+92,culturabioUS,@_Impaciencia_,following,2,2,3,1,2013-01-18 22:57:04
+93,akirasan,@_Impaciencia_,following,3,3,4,2,2007-03-28 15:20:02
+94,Urban_CRG,@_Impaciencia_,following,2,2,3,1,2014-11-26 17:59:25
+95,cientefico,@_Impaciencia_,following,4,1,4,2,2016-03-31 01:13:38
+96,_musicalnote,@_Impaciencia_,following,2,2,4,1,2012-12-11 15:37:41
+97,psicobyte_,@_Impaciencia_,following,3,2,4,2,2011-03-01 12:03:25
+98,noecare7,@_Impaciencia_,following,2,3,3,1,2013-04-29 19:45:29
+99,OWNature,@_Impaciencia_,following,2,2,2,0,2016-09-11 22:48:18
+100,thegreen_ray,@_Impaciencia_,following,2,2,2,0,2017-05-23 07:29:53
+101,rocroloz,@_Impaciencia_,following,2,2,3,0,2015-04-14 17:59:23
+102,ttphysics,@_Impaciencia_,following,3,2,4,1,2014-03-24 15:33:09
+103,GeekyTheory,@_Impaciencia_,following,4,3,3,2,2012-09-13 18:20:47
+104,enc_ciencia,@_Impaciencia_,following,4,2,3,1,2010-09-08 18:07:02
+105,UMAmakers,@_Impaciencia_,following,2,1,2,1,2016-02-26 21:44:37
+106,ddcampayo,@_Impaciencia_,following,2,1,3,0,2011-08-31 14:11:55
+107,MickyHuman,@_Impaciencia_,following,2,2,3,0,2010-05-03 19:19:15
+108,mundodigitaltv,@_Impaciencia_,following,2,2,3,1,2013-09-18 15:43:02
+109,inf_entropy,@_Impaciencia_,following,2,3,4,1,2015-05-20 17:18:07
+110,torressalinas,@_Impaciencia_,following,3,0,3,2,2008-04-15 09:53:52
+111,TASCHEN,@_Impaciencia_,following,4,3,3,3,2009-03-12 10:50:03
+112,witsstories,@_Impaciencia_,following,3,1,2,1,2017-11-22 08:04:44
+113,bukosabino,@_Impaciencia_,following,2,3,3,0,2012-01-29 19:37:56
+114,MujerTekSpace,@_Impaciencia_,following,3,2,3,1,2014-02-21 12:19:00
+115,rafadelcastillo,@_Impaciencia_,following,4,4,4,2,2009-08-27 12:00:07
+116,sgomez,@_Impaciencia_,following,3,3,4,2,2008-06-23 17:00:10
+117,aulasl,@_Impaciencia_,following,2,2,2,1,2012-10-14 13:04:00
+118,CosmoCaixa,@_Impaciencia_,following,4,2,3,2,2013-07-18 15:29:22
+119,Inter_ferencias,@_Impaciencia_,following,2,2,3,1,2016-10-07 14:59:21
+120,breakersevilla,@_Impaciencia_,following,2,2,1,0,2016-09-22 19:38:31
+121,neskeip,@_Impaciencia_,following,2,2,4,0,2011-10-22 15:16:48
+122,miguelfortessan,@_Impaciencia_,following,3,2,4,0,2011-01-23 01:38:59
+123,Inst_INBIO,@_Impaciencia_,following,1,2,2,0,2017-09-07 10:05:59
+124,DatosUGR,@_Impaciencia_,following,2,2,2,1,2015-05-26 08:43:53
+125,delegacionbbaa,@_Impaciencia_,following,2,2,2,1,2011-06-15 16:55:35
+126,AUI_UCA,@_Impaciencia_,following,2,3,3,1,2012-03-07 12:05:37
+127,Xabibenputa,@_Impaciencia_,following,4,2,4,2,2009-05-24 17:39:32
+128,TuSocialMedia,@_Impaciencia_,following,3,2,3,2,2015-03-03 19:58:27
+129,sagilca,@_Impaciencia_,following,3,3,4,1,2012-02-29 21:15:11
+130,FCC_UCA,@_Impaciencia_,following,2,1,2,1,2010-07-08 11:44:30
+131,Divulga_UCA,@_Impaciencia_,following,2,2,3,1,2013-07-02 12:15:30
+132,UCADocFilosofia,@_Impaciencia_,following,2,2,2,0,2013-04-09 14:23:44
+133,cultura_UCA,@_Impaciencia_,following,2,2,2,0,2012-05-14 18:52:39
+134,Eneakao,@_Impaciencia_,following,2,2,3,1,2010-10-20 17:31:18
+135,AlumnosFiloUCA,@_Impaciencia_,following,2,2,2,0,2016-02-17 11:07:56
+136,dele_alumnosESI,@_Impaciencia_,following,3,2,3,1,2012-11-03 12:22:38
+137,UCA_FILOSOFIA,@_Impaciencia_,following,2,3,2,0,2013-04-25 07:01:25
+138,UCAnoveles,@_Impaciencia_,following,3,3,3,1,2014-06-15 12:04:25
+139,fabridigital,@_Impaciencia_,following,2,1,2,1,2014-09-20 08:33:18
+140,MakerSocietySVQ,@_Impaciencia_,following,2,2,2,0,2017-10-14 18:39:59
+141,pgquimica,@_Impaciencia_,following,1,2,2,1,2015-04-29 22:57:13
+142,LFInvisible,@_Impaciencia_,following,3,2,3,1,2014-08-22 16:28:11
+143,grhacklab,@_Impaciencia_,following,2,2,2,0,2015-10-14 03:12:08
+144,HDHispanicas,@_Impaciencia_,following,2,2,2,1,2013-06-06 18:15:38
+145,TheOpenBacteria,@_Impaciencia_,following,2,1,2,0,2017-11-20 08:52:04
+146,iCarlospro,@_Impaciencia_,following,2,3,4,1,2009-03-29 09:55:17
+147,academany,@_Impaciencia_,following,2,2,2,1,2015-08-15 16:59:14
+148,FabFndn,@_Impaciencia_,following,4,4,3,2,2014-05-08 03:16:42
+149,fabacademany,@_Impaciencia_,following,3,2,3,2,2014-04-30 14:48:33
+150,ASL_UHU,@_Impaciencia_,following,2,2,3,1,2013-10-25 17:16:22
+151,lacreducativa,@_Impaciencia_,following,1,1,2,0,2017-11-19 11:56:29
+152,MomandGeekcom,@_Impaciencia_,following,2,3,3,1,2015-03-08 20:39:48
+153,etsi_uhu,@_Impaciencia_,following,2,1,2,1,2010-10-28 11:15:46
+154,AriasMontanoUHU,@_Impaciencia_,following,2,2,3,1,2013-01-22 08:20:07
+155,bibliotecaUHU,@_Impaciencia_,following,3,3,3,2,2010-02-03 11:34:59
+156,GDGgranada,@_Impaciencia_,following,3,2,3,1,2010-09-16 09:21:20
+157,breakerslab,@_Impaciencia_,following,2,2,2,1,2016-09-01 11:49:52
+158,paulalcasado,@_Impaciencia_,following,2,2,2,1,2012-06-26 22:24:28
+159,ConcejeroPedro,@_Impaciencia_,following,2,2,3,1,2012-02-13 11:08:54
+160,R_Hisp,@_Impaciencia_,following,2,1,2,1,2014-04-11 10:10:39
+161,ETSIIT_UGR,@_Impaciencia_,following,3,2,2,1,2015-11-27 12:55:55
+162,joscani,@_Impaciencia_,following,2,2,3,1,2010-02-03 20:56:23
+163,EDocet,@_Impaciencia_,following,4,2,4,2,2011-06-01 08:31:32
+164,CCCientifica,@_Impaciencia_,following,4,1,4,2,2013-07-31 11:36:57
+165,xurxomar,@_Impaciencia_,following,3,2,4,2,2010-03-13 14:20:51
+166,Uhandrea,@_Impaciencia_,following,4,2,5,2,2010-02-03 10:08:40
+167,FranPotencia,@_Impaciencia_,following,4,4,4,1,2011-04-05 14:44:27
+168,PublicacionesUH,@_Impaciencia_,following,3,2,3,1,2009-12-18 13:10:46
+169,anadu21,@_Impaciencia_,following,2,2,3,1,2010-11-13 16:11:29
+170,punto_ts_uhu,@_Impaciencia_,following,2,2,2,0,2013-03-18 13:46:35
+171,Humanidades_UHU,@_Impaciencia_,following,2,1,2,0,2016-06-06 15:11:24
+172,UCC_UHU,@_Impaciencia_,following,2,2,3,1,2012-07-16 07:37:40
+173,CARUHuelva,@_Impaciencia_,following,3,2,3,1,2011-03-01 10:35:58
+174,culturauhu,@_Impaciencia_,following,3,2,3,1,2010-02-02 09:39:46
+175,Psicologia_UHU,@_Impaciencia_,following,3,2,3,1,2011-01-24 17:30:02
+176,franmorisco,@_Impaciencia_,following,2,2,3,1,2010-12-11 14:52:29
+177,HacedoresCom,@_Impaciencia_,following,3,3,3,2,2013-06-20 18:25:38
+178,obsdelmar,@_Impaciencia_,following,3,2,3,1,2014-01-31 14:12:21
+179,ETSASevilla,@_Impaciencia_,following,3,2,3,1,2015-06-12 11:19:02
+180,portalcacocu,@_Impaciencia_,following,3,3,3,1,2011-10-05 09:58:36
+181,LeoRuizGurillo,@_Impaciencia_,following,2,2,3,1,2011-10-28 11:11:23
+182,PimientaSnchz,@_Impaciencia_,following,3,3,4,2,2010-03-22 10:26:36
+183,BellasArtes_US,@_Impaciencia_,following,2,2,2,0,2012-05-25 20:49:16
+184,PatriTezanos,@_Impaciencia_,following,3,2,4,2,2010-04-24 10:57:45
+185,mikimola,@_Impaciencia_,following,1,1,3,0,2009-07-29 11:53:59
+186,MACBA_Barcelona,@_Impaciencia_,following,4,3,4,3,2010-03-10 14:00:48
+187,MarioPadilla91,@_Impaciencia_,following,2,2,2,0,2013-09-06 16:10:00
+188,artfutura,@_Impaciencia_,following,3,2,3,2,2009-03-15 21:39:14
+189,luzen7,@_Impaciencia_,following,2,3,4,1,2013-07-19 18:53:30
+190,bertahll,@_Impaciencia_,following,3,2,3,2,2010-08-12 15:33:26
+191,Educacion_UMA,@_Impaciencia_,following,3,1,3,1,2011-09-05 16:08:31
+192,CceduEstudiante,@_Impaciencia_,following,2,2,3,1,2011-09-05 20:39:23
+193,fedyc_uma,@_Impaciencia_,following,3,2,3,1,2010-09-18 05:31:32
+194,EPSILOM_UMA,@_Impaciencia_,following,2,3,3,1,2012-03-08 18:21:47
+195,CEPYL_UMA,@_Impaciencia_,following,2,2,3,1,2012-03-08 17:37:38
+196,ecomuma,@_Impaciencia_,following,2,2,3,1,2012-04-09 09:32:08
+197,SAII_Eureka,@_Impaciencia_,following,2,2,3,1,2012-03-24 18:44:12
+198,IteraUMA,@_Impaciencia_,following,2,2,3,1,2012-05-17 06:28:09
+199,InformaticaUMA,@_Impaciencia_,following,3,1,2,1,2012-09-11 15:08:58
+200,ConsejoInfUMA,@_Impaciencia_,following,3,2,3,1,2010-03-25 11:20:02
+201,AlhambraMakers,@_Impaciencia_,following,2,2,1,0,2017-04-07 08:03:37
+202,Beelzenef_,@_Impaciencia_,following,3,2,4,2,2011-05-21 09:51:58
+203,HackersWeek,@_Impaciencia_,following,3,3,3,1,2013-11-17 18:23:18
+204,betabeersMLG,@_Impaciencia_,following,2,2,2,1,2012-11-11 22:23:15
+205,GDGMalaga,@_Impaciencia_,following,3,2,3,1,2014-01-23 17:34:57
+206,osfa_11,@_Impaciencia_,following,3,3,4,2,2010-10-28 13:25:41
+207,FancineMalaga,@_Impaciencia_,following,3,2,3,1,2014-11-20 11:55:40
+208,acytamucm,@_Impaciencia_,following,2,2,2,0,2014-10-01 20:36:43
+209,55enrique,@_Impaciencia_,following,4,4,4,2,2010-08-04 08:27:34
+210,geothings_io,@_Impaciencia_,following,4,4,0,1,2016-01-14 08:49:30
+211,CordobaCiencia,@_Impaciencia_,following,3,2,3,1,2014-01-28 08:09:50
+212,cheshireminima,@_Impaciencia_,following,2,2,3,0,2016-08-31 12:31:39
+213,CanalUGatete,@_Impaciencia_,following,1,1,2,0,2017-10-06 13:48:07
+214,genyo_pts,@_Impaciencia_,following,3,2,3,1,2013-07-29 10:40:04
+215,UJABio,@_Impaciencia_,following,2,2,3,0,2013-07-15 13:48:44
+216,DelAlEPSuja,@_Impaciencia_,following,2,2,3,1,2011-10-06 07:59:47
+217,Teleco_UJA,@_Impaciencia_,following,2,1,2,0,2012-10-11 11:06:20
+218,epsjaen,@_Impaciencia_,following,3,2,2,1,2012-01-17 10:46:45
+219,juntalum_epsj,@_Impaciencia_,following,2,2,3,1,2015-02-11 01:33:41
+220,ujaengenieros,@_Impaciencia_,following,3,2,3,1,2012-01-24 22:19:23
+221,VicProyec,@_Impaciencia_,following,2,2,2,0,2015-09-03 11:45:28
+222,Rusaso_,@_Impaciencia_,following,1,2,3,0,2012-11-27 16:06:52
+223,EducatechMLG,@_Impaciencia_,following,2,3,2,1,2015-12-11 16:23:44
+224,Go_Fukimaru7,@_Impaciencia_,following,2,2,4,1,2013-09-08 19:50:58
+225,11defebreroES,@_Impaciencia_,following,3,3,3,2,2016-11-04 17:33:27
+226,CodingFlux_,@_Impaciencia_,following,3,3,5,2,2016-03-03 12:15:48
+227,clubroboticagra,@_Impaciencia_,following,2,0,1,0,2016-11-18 16:02:02
+228,Makova_,@_Impaciencia_,following,3,2,4,2,2011-07-18 13:32:40
+229,OpenFarmCC,@_Impaciencia_,following,3,1,2,1,2014-07-16 08:35:32
+230,OSEcology,@_Impaciencia_,following,4,2,3,2,2009-02-16 03:52:03
+231,moleculd,@_Impaciencia_,following,3,2,3,2,2014-08-18 22:40:29
+232,bmath333,@_Impaciencia_,following,2,2,2,0,2017-01-13 21:24:38
+233,IEEEYP_Spain,@_Impaciencia_,following,2,3,2,0,2017-09-17 18:18:56
+234,clubbestial,@_Impaciencia_,following,1,2,2,0,2016-10-05 12:06:41
+235,UC3Music,@_Impaciencia_,following,2,2,3,1,2014-11-02 22:29:28
+236,lefteye91,@_Impaciencia_,following,1,2,1,0,2012-02-07 14:13:32
+237,FernandoUMA,@_Impaciencia_,following,2,2,4,1,2012-03-15 17:02:58
+238,yolcid,@_Impaciencia_,following,1,1,1,0,2011-07-05 21:40:30
+239,eraser,@_Impaciencia_,following,4,4,5,3,2007-04-01 12:12:45
+240,LEEM_Cadiz,@_Impaciencia_,following,1,1,1,0,2016-10-27 11:05:52
+241,elquellegatarde,@_Impaciencia_,following,2,2,3,1,2010-11-07 23:46:13
+242,cazadorcerebros,@_Impaciencia_,following,3,2,3,2,2016-03-29 11:57:08
+243,CSLab_UPF,@_Impaciencia_,following,3,2,3,2,2013-07-30 13:12:32
+244,CICUS_,@_Impaciencia_,following,4,2,4,2,2010-03-23 08:56:58
+245,hackandbeers,@_Impaciencia_,following,4,3,3,2,2013-04-22 08:52:00
+246,Govaju_3D,@_Impaciencia_,following,2,3,2,1,2011-04-27 20:06:44
+247,Cuent_Cuanticos,@_Impaciencia_,following,4,3,4,2,2011-07-17 22:37:05
+248,germaaan_,@_Impaciencia_,following,2,3,4,1,2012-03-17 16:51:24
+249,bit_LAV,@_Impaciencia_,following,3,3,3,1,2014-10-17 17:13:05
+250,GDGCordobaESP,@_Impaciencia_,following,2,2,3,1,2013-08-07 19:05:36
+251,PabloLeonPsi,@_Impaciencia_,following,2,2,3,1,2012-09-05 20:46:49
+252,Solee_027,@_Impaciencia_,following,1,2,2,0,2017-01-23 18:30:21
+253,nievesborrero,@_Impaciencia_,following,2,2,3,1,2014-11-14 10:02:33
+254,comutopiartv,@_Impaciencia_,following,2,2,2,0,2017-02-22 19:56:42
+255,geekandtechgirl,@_Impaciencia_,following,3,3,3,1,2016-10-05 08:29:19
+256,Mireya355,@_Impaciencia_,following,2,2,3,0,2011-03-29 18:25:53
+257,NuriaStatgirl,@_Impaciencia_,following,2,2,3,2,2012-05-14 17:23:29
+258,ICMCSIC,@_Impaciencia_,following,3,2,3,2,2014-03-12 12:26:51
+259,CCCBLab,@_Impaciencia_,following,4,3,4,3,2009-05-31 08:58:07
+260,eca2017,@_Impaciencia_,following,2,2,2,0,2016-11-09 18:06:07
+261,linguistica_uca,@_Impaciencia_,following,2,2,2,1,2015-03-03 19:40:07
+262,joaquin_cubillo,@_Impaciencia_,following,1,1,2,0,2017-04-30 18:11:44
+263,RSP_oficial,@_Impaciencia_,following,0,1,0,0,2017-10-19 19:04:11
+264,juandavarju,@_Impaciencia_,following,2,2,4,1,2010-06-03 22:52:40
+265,S_C_E_,@_Impaciencia_,following,2,1,3,1,2012-03-29 21:40:25
+266,whyopenresearch,@_Impaciencia_,following,3,1,2,1,2015-11-11 14:19:24
+267,UGRemprendedora,@_Impaciencia_,following,3,3,3,2,2015-12-10 18:08:29
+268,instructables,@_Impaciencia_,following,5,3,4,3,2007-07-19 23:55:48
+269,letras_ciencia,@_Impaciencia_,following,3,3,4,2,2010-04-30 11:16:15
+270,MatematicasUGR,@_Impaciencia_,following,1,1,2,0,2016-11-16 23:18:25
+271,pjbarrecheguren,@_Impaciencia_,following,3,2,3,2,2015-03-22 13:46:43
+272,BioBytes92,@_Impaciencia_,following,0,1,0,0,2010-12-25 16:32:25
+273,github,@_Impaciencia_,following,6,2,3,4,2008-02-11 04:41:50
+274,makersofmurcia,@_Impaciencia_,following,2,2,2,1,2015-05-11 10:34:45
+275,ElCapitanRoy,@_Impaciencia_,following,2,3,3,1,2016-02-18 15:40:17
+276,d_saltares,@_Impaciencia_,following,3,2,4,1,2008-05-04 21:49:28
+277,almu_hs,@_Impaciencia_,following,2,2,4,2,2011-05-14 17:34:35
+278,bernar95,@_Impaciencia_,following,2,2,2,0,2013-03-05 15:47:39
+279,ArturoBorrero,@_Impaciencia_,following,2,2,3,1,2011-05-13 21:01:55
+280,plan4d,@_Impaciencia_,following,1,1,1,0,2014-11-07 13:14:08
+281,rarellano_,@_Impaciencia_,following,2,2,2,0,2012-12-02 15:22:45
+282,Terceranexus6,@_Impaciencia_,following,3,3,4,1,2010-01-05 10:47:30
+283,medinacristobal,@_Impaciencia_,following,2,2,3,1,2011-05-13 22:35:38
+284,aleksander0m,@_Impaciencia_,following,2,2,2,0,2012-03-07 20:31:18
+285,Osluz_unizar,@_Impaciencia_,following,2,2,3,1,2011-11-25 10:53:47
+286,Pulsar_unizar,@_Impaciencia_,following,2,1,2,1,2011-05-19 15:17:05
+287,BiblioInf_UDC,@_Impaciencia_,following,2,2,3,1,2012-06-25 16:41:03
+288,beupferrol,@_Impaciencia_,following,2,2,3,1,2011-02-25 19:47:17
+289,jvareblog,@_Impaciencia_,following,3,3,3,2,2010-05-05 18:04:44
+290,NoLegalTech,@_Impaciencia_,following,2,1,3,1,2017-02-07 10:36:08
+291,luisgj,@_Impaciencia_,following,2,2,2,1,2009-03-17 11:08:57
+292,bioinfGRX,@_Impaciencia_,following,2,1,2,0,2017-09-22 14:46:08
+293,MdelaVilla,@_Impaciencia_,following,2,2,3,1,2010-05-12 14:25:53
+294,esi_uca,@_Impaciencia_,following,2,1,2,1,2014-10-02 09:56:38
+295,DrPantera,@_Impaciencia_,following,2,2,4,1,2011-07-29 19:47:35
+296,InformaticaUHU,@_Impaciencia_,following,2,2,2,0,2013-01-31 14:18:17
+297,LibreLabUCM,@_Impaciencia_,following,3,2,3,1,2015-04-22 09:23:22
+298,JHAtwitts,@_Impaciencia_,following,3,3,3,1,2011-05-22 09:04:30
+299,unicomplutense,@_Impaciencia_,following,4,3,4,2,2009-10-26 15:43:00
+300,casaestudiante,@_Impaciencia_,following,3,3,4,1,2010-03-03 13:06:52
+301,LeafletJS,@_Impaciencia_,following,4,3,3,2,2010-09-24 13:00:44
+302,CARTO,@_Impaciencia_,following,4,3,3,3,2011-01-21 12:07:55
+303,_SandraSM_,@_Impaciencia_,following,3,2,4,1,2010-08-09 18:34:57
+304,i4oc_org,@_Impaciencia_,following,3,3,2,1,2017-03-11 17:15:14
+305,plotlygraphs,@_Impaciencia_,following,4,3,3,3,2013-04-30 19:02:53
+306,bultako,@_Impaciencia_,following,2,2,3,1,2009-09-22 07:13:46
+307,RutAixa,@_Impaciencia_,following,2,3,3,1,2014-03-27 09:48:06
+308,Ibercivis,@_Impaciencia_,following,3,2,3,2,2010-04-15 18:41:31
+309,raquel_villacam,@_Impaciencia_,following,2,2,3,0,2011-12-29 16:11:28
+310,iuma_unizar,@_Impaciencia_,following,2,2,3,1,2014-02-16 11:25:08
+311,agdagira,@_Impaciencia_,following,3,3,3,1,2013-04-05 22:18:54
+312,benhid_,@_Impaciencia_,following,1,2,1,0,2013-10-12 15:30:02
+313,THE_MENTALAIST,@_Impaciencia_,following,2,2,4,0,2009-11-23 18:36:13
+314,fablablima,@_Impaciencia_,following,3,2,3,2,2009-09-17 06:45:25
+315,brianelkins,@_Impaciencia_,following,5,4,3,2,2009-04-17 03:02:44
+316,JaviPerez1,@_Impaciencia_,following,3,3,3,1,2009-07-15 08:08:53
+317,fergunet,@_Impaciencia_,following,3,2,4,1,2007-05-01 21:35:05
+318,gamiaformacion,@_Impaciencia_,following,2,2,2,0,2017-04-21 16:01:55
+319,Psicologia_UMA,@_Impaciencia_,following,2,1,1,0,2017-09-14 10:47:49
+320,det_uma,@_Impaciencia_,following,2,1,2,1,2013-05-05 19:47:33
+321,labingranada,@_Impaciencia_,following,2,2,2,1,2017-01-25 22:15:11
+322,CursosECTS_UGR,@_Impaciencia_,following,3,2,3,1,2013-10-16 07:48:18
+323,MakerFaireBio,@_Impaciencia_,following,3,3,3,2,2013-01-13 12:09:22
+324,intramurs,@_Impaciencia_,following,3,3,3,1,2014-07-22 09:05:45
+325,ferrero_mar,@_Impaciencia_,following,3,2,3,1,2011-12-26 14:08:49
+326,espacio_RES,@_Impaciencia_,following,3,2,3,1,2014-06-11 20:03:46
+327,josejuansanchez,@_Impaciencia_,following,2,2,3,1,2009-09-23 12:27:09
+328,josecclavijo,@_Impaciencia_,following,2,2,2,1,2015-03-17 21:30:39
+329,Chucheria,@_Impaciencia_,following,3,2,4,1,2007-08-09 14:22:21
+330,quierodata,@_Impaciencia_,following,3,2,2,1,2017-02-03 22:35:02
+331,AsoOnyxia,@_Impaciencia_,following,3,3,3,0,2016-09-25 23:54:13
+332,christof77,@_Impaciencia_,following,3,3,4,2,2009-07-31 12:46:29
+333,eumanismo,@_Impaciencia_,following,2,2,3,1,2009-11-13 15:10:01
+334,DEFrobotics,@_Impaciencia_,following,2,2,3,1,2013-09-25 18:25:15
+335,darkomen,@_Impaciencia_,following,3,2,4,1,2007-03-24 19:33:09
+336,Carl0sGS,@_Impaciencia_,following,3,2,4,1,2009-09-29 17:12:57
+337,ThinkMaking,@_Impaciencia_,following,4,3,4,2,2016-04-06 06:55:04
+338,PatrixDQV,@_Impaciencia_,following,3,3,4,2,2011-05-03 09:40:50
+339,MymatSolutions,@_Impaciencia_,following,1,2,2,1,2015-05-26 10:39:07
+340,aserranoa,@_Impaciencia_,following,3,3,3,1,2010-09-23 15:29:20
+341,pablorubma,@_Impaciencia_,following,3,3,4,1,2016-06-21 10:41:38
+342,antoniotecnocr,@_Impaciencia_,following,2,2,3,1,2013-12-10 09:53:14
+343,CurroDemasiado,@_Impaciencia_,following,0,1,1,0,2017-06-26 06:49:08
+344,Bamma8Slamma,@_Impaciencia_,following,1,2,3,0,2010-03-25 12:46:12
+345,concursousl,@_Impaciencia_,following,2,2,3,1,2010-08-27 17:55:04
+346,sugus_etsii,@_Impaciencia_,following,3,2,3,1,2010-09-27 16:32:02
+347,python_sevilla,@_Impaciencia_,following,2,1,2,1,2012-11-05 09:16:47
+348,Midietacojea,@_Impaciencia_,following,4,2,4,2,2011-10-31 15:45:26
+349,SixtoArias,@_Impaciencia_,following,3,3,3,2,2009-07-14 13:01:55
+350,Nachox07,@_Impaciencia_,following,2,2,3,1,2011-09-23 16:25:42
+351,aroargallardo,@_Impaciencia_,following,2,2,2,0,2014-03-30 10:02:52
+352,ComplexExplorer,@_Impaciencia_,following,4,2,3,2,2013-02-05 01:10:03
+353,fisicaUS,@_Impaciencia_,following,2,1,2,1,2017-07-21 09:12:17
+354,cibermarikiya,@_Impaciencia_,following,3,3,4,2,2010-01-09 23:10:52
+355,Yllo,@_Impaciencia_,following,2,2,3,1,2009-01-30 17:32:26
+356,HdigitalesAL,@_Impaciencia_,following,3,3,2,1,2015-10-28 17:16:23
+357,FablabMilano,@_Impaciencia_,following,3,2,2,2,2011-09-26 07:35:59
+358,FAUFabLab,@_Impaciencia_,following,3,2,2,1,2012-11-15 12:52:14
+359,morgue75,@_Impaciencia_,following,2,3,4,1,2013-02-03 23:20:44
+360,jjmerelo,@_Impaciencia_,following,3,3,5,3,2006-12-13 08:45:15
+361,Lidia_Bocanegra,@_Impaciencia_,following,2,2,2,1,2012-10-08 06:29:38
+362,PilarArandaUGR,@_Impaciencia_,following,3,3,3,1,2014-10-25 12:17:00
+363,RadioLabUGR,@_Impaciencia_,following,2,2,2,1,2017-02-07 07:11:25
+364,FabLabLeon,@_Impaciencia_,following,3,3,3,2,2011-05-10 17:14:45
+365,fablabbcn,@_Impaciencia_,following,3,2,3,2,2010-08-14 22:53:09
+366,tatuya01,@_Impaciencia_,following,4,1,3,3,2010-05-31 14:03:36
+367,labs_cesar,@_Impaciencia_,following,3,3,3,1,2016-09-11 09:52:34
+368,heluc,@_Impaciencia_,following,3,3,3,2,2012-09-28 07:43:49
+369,area_urmaker,@_Impaciencia_,following,2,2,2,0,2016-04-19 16:17:54
+370,HackadayPrize,@_Impaciencia_,following,3,2,3,2,2014-06-03 16:31:56
+371,hackadayio,@_Impaciencia_,following,4,3,4,2,2014-07-22 17:37:52
+372,adafruit,@_Impaciencia_,following,5,2,4,3,2009-02-12 23:26:36
+373,hackaday,@_Impaciencia_,following,5,3,4,3,2008-04-30 22:44:24
+374,Messcobar_,@_Impaciencia_,following,2,2,4,0,2011-03-26 14:15:07
+375,franciscorecio,@_Impaciencia_,following,2,2,3,1,2010-03-01 23:02:15
+376,LolaDaz,@_Impaciencia_,following,3,3,3,1,2011-10-02 10:26:41
+377,python_madrid,@_Impaciencia_,following,3,1,2,2,2011-04-12 16:03:48
+378,AeroPython,@_Impaciencia_,following,2,2,2,1,2015-09-17 22:21:09
+379,astrojuanlu,@_Impaciencia_,following,3,2,3,1,2015-10-27 15:34:32
+380,javcod,@_Impaciencia_,following,2,2,3,1,2010-02-02 13:23:27
+381,guadatech,@_Impaciencia_,following,2,3,3,2,2014-01-14 13:08:07
+382,habilitaseduca,@_Impaciencia_,following,2,2,2,0,2015-08-29 11:55:01
+383,FuertesJG,@_Impaciencia_,following,2,1,2,1,2015-06-13 07:58:02
+384,RemediosFdez,@_Impaciencia_,following,2,2,3,1,2012-03-30 11:26:13
+385,ProsumidorSoc,@_Impaciencia_,following,3,3,4,2,2013-02-28 16:48:03
+386,OFPIUGR,@_Impaciencia_,following,2,2,3,1,2011-06-08 06:14:04
+387,jordi_a,@_Impaciencia_,following,4,3,4,3,2008-10-07 07:52:23
+388,UGRinvestiga,@_Impaciencia_,following,3,2,2,1,2015-04-07 07:56:14
+389,lindacq,@_Impaciencia_,following,4,3,4,3,2007-06-18 08:22:06
+390,polisea,@_Impaciencia_,following,3,3,4,2,2007-08-09 19:20:18
+391,DataBeersGRX,@_Impaciencia_,following,2,1,2,1,2016-10-06 13:44:02
+392,DataBeersMLG,@_Impaciencia_,following,2,2,3,1,2015-07-13 10:09:40
+393,databeers,@_Impaciencia_,following,3,2,3,2,2014-03-06 19:15:03
+394,RLadiesValencia,@_Impaciencia_,following,2,2,1,1,2016-11-13 20:31:32
+395,RLadiesBCN,@_Impaciencia_,following,2,2,2,1,2016-10-11 21:06:18
+396,RLadiesMAD,@_Impaciencia_,following,3,2,3,1,2016-09-03 22:42:28
+397,PHPSevilla,@_Impaciencia_,following,2,2,2,1,2014-02-26 17:42:56
+398,Empyria_Asoc,@_Impaciencia_,following,2,2,3,1,2012-04-29 15:40:10
+399,FranQuero95,@_Impaciencia_,following,1,1,2,0,2015-11-07 23:56:29
+400,BiotopHD,@_Impaciencia_,following,2,2,2,1,2016-06-03 09:42:24
+401,Nicuma3,@_Impaciencia_,following,2,2,2,1,2011-02-06 17:05:43
+402,antonio_lorca,@_Impaciencia_,following,2,2,3,1,2010-09-09 13:56:14
+403,fccee_uhu,@_Impaciencia_,following,2,2,2,1,2009-11-05 09:36:49
+404,openscience,@_Impaciencia_,following,4,4,4,3,2009-07-04 01:39:30
+405,RaspberryPiGuy1,@_Impaciencia_,following,4,2,4,2,2012-10-21 10:12:39
+406,Raspberry_Pi,@_Impaciencia_,following,5,2,4,3,2011-05-21 15:20:40
+407,danielvivarrios,@_Impaciencia_,following,1,2,3,0,2011-06-13 09:32:29
+408,Jalito92,@_Impaciencia_,following,1,1,2,0,2016-12-18 20:34:24
+409,SirDavidRod,@_Impaciencia_,following,2,2,3,1,2013-03-31 19:14:17
+410,JEDAGranada,@_Impaciencia_,following,2,2,3,1,2014-10-15 22:35:07
+411,jlmgarvayo,@_Impaciencia_,following,3,3,4,2,2012-09-20 21:22:54
+412,CountrCultrLabs,@_Impaciencia_,following,3,2,3,2,2013-05-26 06:29:06
+413,miniPCR,@_Impaciencia_,following,3,3,3,1,2014-01-31 17:09:59
+414,Aminobiolab,@_Impaciencia_,following,3,2,3,1,2015-06-16 17:48:34
+415,bioCURIOUSlab,@_Impaciencia_,following,3,2,3,2,2010-11-04 20:04:38
+416,diybio,@_Impaciencia_,following,3,1,1,2,2008-10-09 21:33:04
+417,iGEM,@_Impaciencia_,following,3,2,3,2,2008-02-26 22:11:14
+418,shiffman,@_Impaciencia_,following,4,3,4,2,2008-04-29 17:08:46
+419,Marqvvs,@_Impaciencia_,following,4,1,2,1,2016-10-14 18:28:42
+420,CdeCiencia,@_Impaciencia_,following,4,2,4,2,2014-01-06 10:57:48
+421,Fantastiqvs,@_Impaciencia_,following,4,2,3,2,2013-12-29 22:03:58
+422,QuantumFracture,@_Impaciencia_,following,4,2,3,2,2012-08-27 11:51:40
+423,xkcdes,@_Impaciencia_,following,3,0,2,1,2009-07-21 09:12:46
+424,xkcdComic,@_Impaciencia_,following,5,0,2,3,2013-12-18 08:00:58
+425,randal_olson,@_Impaciencia_,following,5,5,4,3,2009-06-21 20:13:18
+426,lenioypalmera,@_Impaciencia_,following,1,0,2,0,2014-09-23 18:37:18
+427,LABELLA_ANTONIO,@_Impaciencia_,following,2,2,2,1,2013-04-28 17:25:30
+428,Sketchfab,@_Impaciencia_,following,4,3,4,2,2011-11-26 15:27:46
+429,Hack_ForGood,@_Impaciencia_,following,3,2,3,2,2013-01-17 17:40:12
+430,PsicologiaUS,@_Impaciencia_,following,2,1,2,1,2015-09-16 17:39:00
+431,delegaETSII,@_Impaciencia_,following,3,2,3,1,2010-04-28 08:40:38
+432,etsii,@_Impaciencia_,following,3,1,3,2,2010-12-02 12:43:59
+433,GDGSevilla,@_Impaciencia_,following,2,2,2,1,2011-02-23 09:07:30
+434,_pablotrinidad,@_Impaciencia_,following,2,2,3,1,2012-02-18 10:26:08
+435,SevillaJS,@_Impaciencia_,following,2,0,2,1,2012-07-08 17:14:25
+436,Tecnologeria,@_Impaciencia_,following,2,2,2,1,2016-09-23 14:29:07
+437,bioscripts,@_Impaciencia_,following,2,2,3,1,2008-07-25 12:08:50
+438,ebdonana,@_Impaciencia_,following,3,2,3,1,2012-10-17 10:39:23
+439,Medicina_US,@_Impaciencia_,following,3,2,3,1,2010-05-28 18:17:48
+440,Odonto_Us,@_Impaciencia_,following,2,1,2,1,2016-02-01 17:17:46
+441,AulaMagna,@_Impaciencia_,following,3,2,4,2,2010-01-08 08:50:08
+442,BiologiaUS,@_Impaciencia_,following,3,3,3,2,2011-11-21 17:50:43
+443,CienciaUS,@_Impaciencia_,following,3,2,3,2,2012-09-26 10:36:32
+444,Univcordoba,@_Impaciencia_,following,4,2,4,2,2010-01-25 12:41:03
+445,InvestigaUS,@_Impaciencia_,following,3,2,3,2,2012-06-13 12:25:45
+446,univcadiz,@_Impaciencia_,following,4,2,3,2,2010-03-23 12:15:08
+447,CasaCiencia_Sev,@_Impaciencia_,following,4,3,3,2,2010-09-24 08:48:33
+448,facpsi,@_Impaciencia_,following,4,4,4,2,2009-04-21 15:14:20
+449,bibliotecaUGR,@_Impaciencia_,following,3,3,3,1,2015-03-11 11:31:49
+450,DGEUGR,@_Impaciencia_,following,3,2,3,1,2013-02-21 14:15:26
+451,andreshp95,@_Impaciencia_,following,2,2,2,0,2012-02-03 12:47:42
+452,indignaillo,@_Impaciencia_,following,2,2,2,0,2017-03-10 09:33:30
+453,fdavidcl,@_Impaciencia_,following,2,2,3,1,2010-07-26 10:50:39
+454,WizMik12,@_Impaciencia_,following,2,2,4,0,2010-05-08 21:14:02
+455,mroman42,@_Impaciencia_,following,2,2,2,0,2015-02-23 23:25:48
+456,bortizmath,@_Impaciencia_,following,2,2,3,0,2017-07-12 20:31:50
+457,jmml97,@_Impaciencia_,following,2,2,3,1,2012-04-26 16:21:38
+458,buenourbano,@_Impaciencia_,following,2,1,2,0,2016-04-12 08:39:04
+459,jmmlUGR,@_Impaciencia_,following,2,1,2,0,2016-02-26 19:53:05
+460,libreim_,@_Impaciencia_,following,2,2,2,0,2015-03-10 18:16:00
+461,AMATugr,@_Impaciencia_,following,2,2,3,1,2015-04-17 09:18:53
+462,fcienciasugr,@_Impaciencia_,following,3,2,3,1,2011-05-06 08:52:40
+463,defcUGR,@_Impaciencia_,following,2,2,2,1,2016-04-27 06:47:13
+464,Fac_CienciasUCO,@_Impaciencia_,following,3,2,2,1,2011-05-18 09:30:30
+465,ParqueCiencias,@_Impaciencia_,following,4,2,3,2,2010-06-04 08:41:00
+466,fede2_cr,@_Impaciencia_,following,2,2,3,1,2009-10-13 02:24:26
+467,DrLitos,@_Impaciencia_,following,3,2,4,2,2009-10-05 14:05:36
+468,javacasm,@_Impaciencia_,following,3,2,4,2,2011-09-16 22:14:14
+469,CienciaBar,@_Impaciencia_,following,3,1,2,1,2014-10-17 15:59:50
+470,cienciaenbarra,@_Impaciencia_,following,2,2,2,1,2015-02-04 08:01:03
+471,CentroPrincipia,@_Impaciencia_,following,3,2,3,1,2010-11-05 09:19:24
+472,Principia_io,@_Impaciencia_,following,4,2,4,2,2014-07-12 18:45:19
+473,AguaSilva,@_Impaciencia_,following,2,2,3,1,2012-04-20 22:43:44
+474,AlvaroRDuarte,@_Impaciencia_,following,2,2,3,0,2013-04-05 04:53:41
+475,MaruCasanovaTW,@_Impaciencia_,following,2,3,2,0,2014-06-09 18:49:45
+476,terpsicorem,@_Impaciencia_,following,2,2,3,0,2010-01-17 14:39:25
+477,Gara9951Rgg,@_Impaciencia_,following,3,3,4,1,2012-09-18 13:24:34
+478,22_dur,@_Impaciencia_,following,2,2,4,1,2014-07-02 18:22:46
+479,everjavix,@_Impaciencia_,following,1,2,3,0,2017-09-21 11:03:53
+480,PepesJimenez,@_Impaciencia_,following,2,3,4,1,2011-04-21 11:37:13
+481,TimMarzullo,@_Impaciencia_,following,1,1,1,0,2016-08-15 17:21:43
+482,phineasgreg,@_Impaciencia_,following,3,2,2,1,2014-05-07 12:07:49
+483,BackyardBrains,@_Impaciencia_,following,3,2,2,2,2009-10-22 19:33:57
+484,OpenWorm,@_Impaciencia_,following,3,2,3,2,2010-12-10 23:38:39
+485,fablabgr,@_Impaciencia_,following,1,1,0,0,2013-04-12 15:59:31
+486,ujaen,@_Impaciencia_,following,4,2,4,2,2009-07-20 09:40:23
+487,jpinod02,@_Impaciencia_,following,2,2,3,1,2013-03-07 11:36:45
+488,CarmenTenor,@_Impaciencia_,following,2,3,3,1,2011-05-20 21:08:50
+489,airun72,@_Impaciencia_,following,2,2,3,1,2009-09-16 08:25:23
+490,CongresoHDH2017,@_Impaciencia_,following,2,2,2,0,2016-12-02 10:27:06
+491,iArtHislab,@_Impaciencia_,following,2,3,2,1,2014-03-05 23:24:58
+492,PoloDigitalMLG,@_Impaciencia_,following,3,3,3,1,2016-09-30 12:14:28
+493,FabLab_Malaga,@_Impaciencia_,following,2,2,2,1,2016-01-12 12:51:08
+494,Brain_Dynamics,@_Impaciencia_,following,3,3,4,2,2010-09-22 20:30:07
+495,ScientiaJMLN,@_Impaciencia_,following,4,2,4,3,2011-05-04 10:43:15
+496,carlosmguevara,@_Impaciencia_,following,2,2,3,1,2010-09-01 14:13:00
+497,jmmulet,@_Impaciencia_,following,4,2,5,3,2010-11-02 14:25:13
+498,bioamara,@_Impaciencia_,following,3,2,4,2,2011-03-21 17:55:23
+499,SDciencia,@_Impaciencia_,following,3,3,4,2,2012-10-09 20:23:27
+500,rf_ventura,@_Impaciencia_,following,3,3,3,2,2010-04-15 20:50:40
+501,linkbyuma,@_Impaciencia_,following,3,3,3,2,2015-01-17 13:52:50
+502,ideasfactory_es,@_Impaciencia_,following,3,3,3,1,2015-04-08 16:57:55
+503,emi_sb,@_Impaciencia_,following,3,2,4,2,2011-02-23 16:26:32
+504,jjvaarq,@_Impaciencia_,following,2,2,3,1,2008-01-21 12:20:28
+505,DIY_BCN,@_Impaciencia_,following,1,2,1,0,2015-06-27 17:56:18
+506,uhu_global,@_Impaciencia_,following,4,3,3,2,2010-05-19 08:42:00
+507,unisevilla,@_Impaciencia_,following,5,3,4,3,2009-08-06 08:48:30
+508,UniHuelva,@_Impaciencia_,following,4,2,4,2,2010-06-14 11:13:21
+509,pablodeolavide,@_Impaciencia_,following,4,3,4,2,2010-01-11 19:01:32
+510,UPVigem,@_Impaciencia_,following,2,2,2,1,2014-05-09 17:59:08
+511,autopoyetico,@_Impaciencia_,following,1,2,2,0,2012-05-20 15:47:57
+512,malakabot,@_Impaciencia_,following,2,0,2,0,2013-04-08 18:46:50
+513,lahoramaker,@_Impaciencia_,following,3,2,3,1,2015-11-07 12:55:33
+514,elsatch,@_Impaciencia_,following,3,3,4,2,2008-04-09 00:56:15
+515,arduino,@_Impaciencia_,following,5,2,3,3,2011-03-15 04:57:49
+516,dcuartielles,@_Impaciencia_,following,4,2,4,2,2009-11-22 12:35:20
+517,MakespaceMadrid,@_Impaciencia_,following,3,2,3,2,2013-02-20 19:20:23
+518,Obijuan_cube,@_Impaciencia_,following,3,2,4,2,2009-08-16 13:40:46
+519,colepower,@_Impaciencia_,following,3,3,3,2,2009-06-17 11:15:12
+520,juandalibaba,@_Impaciencia_,following,2,2,3,0,2009-07-20 12:24:19
+521,anrosa87,@_Impaciencia_,following,1,2,2,0,2009-11-05 21:54:02
+522,SGA_UMA,@_Impaciencia_,following,2,2,3,1,2012-12-04 05:30:22
+523,gilbellosta,@_Impaciencia_,following,3,2,4,2,2009-08-07 14:21:47
+524,divulgame_net,@_Impaciencia_,following,4,2,4,2,2011-04-19 11:23:20
+525,python_es,@_Impaciencia_,following,3,1,3,2,2011-03-02 07:44:25
+526,PyConES,@_Impaciencia_,following,3,0,3,2,2012-06-20 14:40:21
+527,elpsycomago,@_Impaciencia_,following,3,3,3,2,2013-01-20 14:30:03
+528,divulgaUNED,@_Impaciencia_,following,4,2,3,2,2011-10-05 09:09:31
+529,HdCiencia,@_Impaciencia_,following,4,2,4,2,2011-03-08 21:23:28
+530,CSICdivulga,@_Impaciencia_,following,4,3,3,3,2011-05-24 09:29:45
+531,FECYT_Ciencia,@_Impaciencia_,following,5,3,4,3,2009-11-04 10:28:29
+532,UAM_Gazette,@_Impaciencia_,following,3,3,3,2,2011-05-16 08:50:00
+533,FDescubre,@_Impaciencia_,following,3,3,4,2,2008-11-07 15:56:03
+534,uciencia,@_Impaciencia_,following,3,2,3,2,2009-11-26 12:16:01
+535,Destinouma,@_Impaciencia_,following,3,1,3,1,2013-01-21 12:50:49
+536,ceuma_,@_Impaciencia_,following,3,2,3,1,2012-04-15 08:57:49
+537,RRIIUMA,@_Impaciencia_,following,3,3,3,1,2008-09-11 11:02:24
+538,fguma,@_Impaciencia_,following,3,3,3,2,2011-05-24 10:34:32
+539,Biblioteca_UMA,@_Impaciencia_,following,3,2,4,2,2012-02-24 11:12:03
+540,QuantaMagazine,@_Impaciencia_,following,4,2,3,3,2012-10-03 18:44:34
+541,medialabprado,@_Impaciencia_,following,4,3,4,3,2008-12-01 05:31:19
+542,PedroMargolles,@_Impaciencia_,following,3,3,0,1,2010-05-22 20:46:03
+543,theBentoLab,@_Impaciencia_,following,3,3,3,2,2013-10-02 21:30:42
+544,hackuarium,@_Impaciencia_,following,3,2,3,2,2014-03-17 22:19:11
+545,RadionaOrg,@_Impaciencia_,following,2,2,3,0,2016-04-28 06:43:39
+546,mbostock,@_Impaciencia_,following,4,2,3,3,2006-12-05 21:57:30
+547,worrydream,@_Impaciencia_,following,4,1,3,3,2011-02-21 18:43:22
+548,Pybonacci,@_Impaciencia_,following,3,2,4,2,2012-04-13 19:35:07
+549,ibartomeus,@_Impaciencia_,following,3,2,3,1,2008-03-26 15:25:43
+550,UGRdivulga,@_Impaciencia_,following,5,3,3,2,2012-03-01 11:10:07
+551,CanalUGR,@_Impaciencia_,following,5,4,4,3,2010-05-17 10:25:19
+552,culturauma,@_Impaciencia_,following,3,2,3,2,2010-04-26 11:29:28
+553,ContenedorUMA,@_Impaciencia_,following,2,2,2,1,2016-04-10 19:10:22
+554,OpenLabMadrid,@_Impaciencia_,following,2,2,2,1,2016-01-18 18:54:58
+555,MediaLabUGR,@_Impaciencia_,following,3,2,3,2,2014-11-02 18:17:16
+556,ana_valdi,@_Impaciencia_,following,2,3,3,1,2011-05-06 14:44:51
+557,fablabsevilla,@_Impaciencia_,following,3,3,3,2,2012-02-10 09:37:53
+558,ERamirez_,@_Impaciencia_,following,2,3,3,1,2008-03-04 16:42:00
+559,GreenMartinha,@_Impaciencia_,following,3,3,3,1,2011-06-14 14:37:35
+560,OSLUGR,@_Impaciencia_,following,3,3,4,2,2010-09-09 08:55:46
+561,olea,@_Impaciencia_,following,3,2,4,2,2007-03-25 12:01:28
+562,juanmard,@_Impaciencia_,following,2,2,2,0,2010-07-14 17:24:42
+563,Raul_MontanezM,@_Impaciencia_,following,2,2,2,0,2015-10-27 09:50:51
+564,HackLabAl,@_Impaciencia_,following,3,3,4,2,2012-03-30 11:55:46
+565,RemolacHackLAB,@_Impaciencia_,following,2,2,2,1,2017-01-04 11:08:33
+566,crodriguezcaso,@_Impaciencia_,following,2,1,2,0,2011-05-19 22:19:18
+567,juevesnoche,@_Impaciencia_,following,2,2,3,1,2011-03-04 16:16:38
+568,Mariridiscencia,@_Impaciencia_,following,1,2,2,0,2014-12-16 23:26:21
+569,JoseBandolero,@_Impaciencia_,following,2,2,3,0,2011-09-01 21:09:10
+570,AntJ77,@_Impaciencia_,following,2,2,2,1,2011-02-23 19:22:39
+571,JaviSkan,@_Impaciencia_,following,3,3,4,1,2010-11-26 08:50:39
+572,SalvoTierra,@_Impaciencia_,following,3,3,3,1,2011-05-20 22:01:56
+573,dani_dpv,@_Impaciencia_,following,2,2,2,0,2015-03-25 21:58:59
+574,UMACiencias,@_Impaciencia_,following,2,2,3,0,2016-12-02 11:30:52
+575,scaiuma,@_Impaciencia_,following,2,2,3,1,2014-01-29 14:11:22
+576,RubianoTame,@_Impaciencia_,following,2,2,3,0,2012-05-11 20:27:47
+577,leviaingenia,@_Impaciencia_,following,2,2,4,1,2014-11-08 19:19:16
+578,EnriqueViguera,@_Impaciencia_,following,2,2,3,1,2013-01-17 23:21:10
+579,emulenews,@_Impaciencia_,following,4,3,5,3,2011-10-16 22:27:04
+580,lopez_unzu,@_Impaciencia_,following,2,2,0,0,2011-03-24 15:21:20
+581,eureka_uma,@_Impaciencia_,following,3,3,3,1,2011-11-10 00:54:03
+582,villena_francis,@_Impaciencia_,following,2,2,3,0,2012-01-10 12:17:43
+583,lucia_camdom,@_Impaciencia_,following,2,2,3,0,2011-12-25 20:38:32
+584,CEC_UMA,@_Impaciencia_,following,2,2,3,1,2013-12-17 20:35:32
+585,Antonio34607344,@_Impaciencia_,following,2,1,2,0,2016-12-03 18:25:29
+586,jomastin2,@_Impaciencia_,following,2,2,3,0,2014-03-22 22:13:08
+587,RectorUMA,@_Impaciencia_,following,3,3,3,1,2015-06-22 21:25:34
+588,MOGuerreroPerez,@_Impaciencia_,following,2,2,3,1,2011-04-11 14:31:30
+589,SONIADOBLASNAVA,@_Impaciencia_,following,2,2,2,1,2011-12-19 09:02:48
+590,SusanaHermoso,@_Impaciencia_,following,2,2,3,1,2011-01-11 19:34:45
+591,jota_ese_be,@_Impaciencia_,following,0,1,0,0,2017-10-04 18:11:06
+592,katospiegel,@_Impaciencia_,following,2,2,3,1,2010-12-13 03:33:32
+593,ProyectoIcarus,@_Impaciencia_,following,2,3,2,0,2017-09-12 15:20:27
+594,marinaguadix,@_Impaciencia_,following,3,3,4,1,2009-05-16 10:32:09
+595,josef_ramirez,@_Impaciencia_,following,2,2,4,1,2007-06-27 10:46:38
+596,opiniondemalaga,@_Impaciencia_,following,5,3,4,3,2009-10-28 12:16:08
+597,malaga,@_Impaciencia_,following,5,3,4,2,2011-07-04 21:39:58
+598,InfoUMA,@_Impaciencia_,following,5,3,4,2,2010-03-09 11:14:17
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+1,12,true
+1,14,true
+1,3,true
+1,105,true
+1,80,true
+1,583,true
+1,23,true
+1,30,true
+1,516,true
+1,59,true
+1,46,true
+1,100,true
+1,552,true
+1,262,true
+1,556,true
+1,232,true
+1,54,true
+1,242,true
+1,462,true
+1,228,true
+1,7,true
+1,410,true
+1,595,true
+1,295,true
+1,498,true
+1,96,true
+1,254,true
+1,559,true
+1,586,true
+1,4,true
+1,474,true
+1,562,true
+1,75,true
+1,354,true
+1,274,true
+1,257,true
+1,455,true
+1,114,true
+1,5,true
+1,496,true
+1,454,true
+1,81,true
+1,422,true
+1,393,true
+1,341,true
+1,209,true
+1,43,true
+1,106,true
+1,355,true
+1,466,true
+1,127,true
+1,79,true
+1,313,true
+1,252,true
+1,22,true
+1,577,true
+1,585,true
+1,56,true
+1,575,true
+1,542,true
+1,309,true
+1,357,true
+1,112,true
+1,480,true
+1,578,true
+1,382,true
+1,8,true
+1,478,true
+1,239,true
+1,342,true
+1,146,true
+1,594,true
+1,481,true
+1,281,true
+1,93,true
+1,273,true
+1,296,true
+1,99,true
+1,40,true
+1,394,true
+1,158,true
+1,384,true
+1,95,true
+1,591,true
+1,118,true
+1,92,true
+1,399,true
+1,136,true
+1,433,true
+1,277,true
+1,125,true
+1,87,true
+1,589,true
+1,316,true
+1,430,true
+1,55,true
+1,306,true
+1,291,true
+1,429,true
+1,213,true
+1,420,true
+1,261,true
+1,327,true
+1,598,true
+1,540,true
+1,182,true
+1,445,true
+1,567,true
+1,200,true
+1,530,true
+1,73,true
+1,391,true
+1,470,true
+1,289,true
+1,378,true
+1,473,true
+1,219,true
+1,359,true
+1,528,true
+1,157,true
+1,178,true
+1,237,true
+1,205,true
+1,221,true
+1,464,true
+1,424,true
+1,194,true
+1,510,true
+1,225,true
+1,258,true
+1,477,true
+1,41,true
+1,400,true
+1,300,true
+1,124,true
+1,519,true
+1,224,true
+1,366,true
+1,187,true
+1,179,true
+1,485,true
+1,367,true
+1,421,true
+1,67,true
+1,504,true
+1,409,true
+1,361,true
+1,484,true
+1,139,true
+1,535,true
+1,25,true
+1,24,true
+1,497,true
+1,212,true
+1,383,true
+1,149,true
+1,35,true
+1,147,true
+1,406,true
+1,166,true
+1,532,true
+1,375,true
+1,280,true
+1,36,true
+1,220,true
+1,444,true
+1,141,true
+1,192,true
+1,571,true
+1,153,true
+1,174,true
+1,208,true
+1,502,true
+1,544,true
+1,116,true
+1,538,true
+1,349,true
+1,39,true
+1,49,true
+1,218,true
+1,475,true
+1,13,true
+1,226,true
+1,397,true
+1,432,true
+1,428,true
+1,580,true
+1,50,true
+1,386,true
+1,545,true
+1,356,true
+1,270,true
+1,238,true
+1,413,true
+1,68,true
+1,47,true
+1,72,true
+1,584,true
+1,51,true
+1,117,true
+1,90,true
+1,371,true
+1,389,true
+1,60,true
+1,392,true
+1,320,true
+1,10,true
+1,513,true
+1,52,true
+1,417,true
+1,426,true
+1,345,true
+1,369,true
+1,527,true
+1,235,true
+1,102,true
+1,570,true
+1,518,true
+1,381,true
+1,37,true
+1,339,true
+1,185,true
+1,534,true
+1,563,true
+1,160,true
+1,503,true
+1,593,true
+1,189,true
+1,423,true
+1,468,true
+1,301,true
+1,255,true
+1,447,true
+1,63,true
+1,126,true
+1,164,true
+1,539,true
+1,195,true
+1,465,true
+1,177,true
+1,86,true
+1,373,true
+1,9,true
+1,223,true
+1,551,true
+1,288,true
+1,370,true
+1,269,true
+1,582,true
+1,122,true
+1,176,true
+1,202,true
+1,441,true
+1,419,true
+1,272,true
+1,188,true
+1,276,true
+1,206,true
+1,325,true
+1,526,true
+1,415,true
+1,302,true
+1,336,true
+1,531,true
+1,198,true
+1,38,true
+1,543,true
+1,275,true
+1,140,true
+1,407,true
+1,293,true
+1,554,true
+1,236,true
+1,216,true
+1,240,true
+1,211,true
+1,335,true
+1,434,true
+1,536,true
+1,597,true
+1,555,true
+1,303,true
+1,152,true
+1,53,true
+1,44,true
+1,48,true
+1,319,true
+1,443,true
+1,33,true
+1,332,true
+1,249,true
+1,130,true
+1,523,true
+1,308,true
+1,222,true
+1,576,true
+1,459,true
+1,377,true
+1,279,true
+1,58,true
+1,150,true
+1,230,true
+1,91,true
+1,379,true
+1,210,true
+1,215,true
+1,376,true
+1,368,true
+1,131,true
+1,256,true
+1,515,true
+1,572,true
+1,326,true
+1,193,true
+1,89,true
+1,162,true
+1,104,true
+1,32,true
+1,199,true
+1,61,true
+1,550,true
+1,85,true
+1,596,true
+1,28,true
+1,119,true
+1,346,true
+1,285,true
+1,365,true
+1,253,true
+1,488,true
+1,21,true
+1,449,true
+1,133,true
+1,467,true
+1,170,true
+1,438,true
+1,318,true
+1,347,true
+1,338,true
+1,529,true
+1,165,true
+1,62,true
+1,142,true
+1,283,true
+1,248,true
+1,511,true
+1,267,true
+1,227,true
+1,408,true
+1,522,true
+1,512,true
+1,207,true
+1,398,true
+1,490,true
+1,579,true
+1,109,true
+1,592,true
+1,175,true
+1,549,true
+1,34,true
+1,374,true
+1,547,true
+1,245,true
+1,241,true
+1,340,true
+1,83,true
+1,352,true
+1,299,true
+1,27,true
+1,266,true
+1,137,true
+1,233,true
+1,298,true
+1,524,true
+1,533,true
+1,15,true
+1,278,true
+1,234,true
+1,310,true
+1,507,true
+1,500,true
+1,427,true
+1,517,true
+1,312,true
+1,395,true
+1,74,true
+1,159,true
+1,94,true
+1,169,true
+1,98,true
+1,304,true
+1,505,true
+1,363,true
+1,358,true
+1,76,true
+1,259,true
+1,264,true
+1,486,true
+1,461,true
+1,450,true
+1,387,true
+1,156,true
+1,204,true
+1,396,true
+1,537,true
+1,564,true
+1,286,true
+1,307,true
+1,26,true
+1,214,true
+1,19,true
+1,11,true
+1,107,true
+1,471,true
+1,344,true
+1,148,true
+1,135,true
+1,120,true
+1,482,true
+1,247,true
+1,290,true
+1,20,true
+1,128,true
+1,171,true
+1,456,true
+1,351,true
+1,45,true
+1,573,true
+1,437,true
+1,31,true
+1,190,true
+1,404,true
+1,337,true
+1,333,true
+1,372,true
+1,448,true
+1,103,true
+1,446,true
+1,70,true
+1,546,true
+1,483,true
+1,111,true
+1,311,true
+1,343,true
+1,66,true
+1,201,true
+1,173,true
+1,495,true
+1,569,true
+1,244,true
+1,416,true
+1,588,true
+1,439,true
+1,167,true
+1,489,true
+1,360,true
+1,121,true
+1,472,true
+1,260,true
+1,561,true
+1,401,true
+1,18,true
+1,284,true
+1,435,true
+1,97,true
+1,271,true
+1,17,true
+1,566,true
+1,418,true
+1,436,true
+1,132,true
+1,77,true
+1,181,true
+1,557,true
+1,197,true
+1,82,true
+1,451,true
+1,113,true
+1,590,true
+1,6,true
+1,323,true
+1,151,true
+1,154,true
+1,110,true
+1,57,true
+1,476,true
+1,108,true
+1,196,true
+1,265,true
+1,168,true
+1,501,true
+1,101,true
+1,191,true
+1,71,true
+1,353,true
+1,297,true
+1,88,true
+1,203,true
+1,292,true
+1,565,true
+1,380,true
+1,587,true
+1,521,true
+1,145,true
+1,452,true
+1,217,true
+1,514,true
+1,186,true
+1,69,true
+1,138,true
+1,440,true
+1,330,true
+1,163,true
+1,525,true
+1,460,true
+1,509,true
+1,385,true
+1,184,true
+1,463,true
+1,425,true
+1,506,true
+1,520,true
+1,553,true
+1,314,true
+1,263,true
+1,64,true
+1,388,true
+1,581,true
+1,42,true
+1,499,true
+1,328,true
+1,479,true
+1,268,true
+1,251,true
+1,282,true
+1,458,true
+1,78,true
+1,442,true
+1,246,true
+1,287,true
+1,548,true
+1,494,true
+1,155,true
+1,324,true
+1,315,true
+1,84,true
+1,364,true
+1,172,true
+1,390,true
+1,350,true
+1,250,true
+1,231,true
+1,134,true
+1,161,true
+1,403,true
+1,541,true
+1,414,true
+1,123,true
+1,2,true
+1,558,true
+1,568,true
+1,331,true
+1,294,true
+1,492,true
+1,322,true
+1,348,true
+1,493,true
+1,491,true
+1,144,true
+1,180,true
+1,329,true
+1,574,true
+1,29,true
+1,65,true
+1,362,true
+1,183,true
+1,560,true
+1,412,true
+1,487,true
+1,431,true
+1,402,true
+1,469,true
+1,321,true
+1,411,true
+1,129,true
+1,115,true
+1,405,true
+1,16,true
+1,317,true
+1,508,true
+1,229,true
+1,457,true
+1,143,true
+1,243,true
+1,305,true
+1,334,true
+1,453,true
+2,113,true
+2,1,true
+3,596,true
+3,598,true
+3,4,true
+3,5,true
+3,579,true
+3,587,true
+3,575,true
+3,597,true
+3,578,true
+3,533,true
+3,531,true
+3,530,true
+3,178,true
+3,258,true
+3,446,true
+3,572,true
+4,7,true
+4,5,true
+4,552,true
+4,441,true
+4,587,true
+4,597,true
+4,596,true
+4,598,true
+4,26,true
+4,17,true
+5,3,true
+5,552,true
+5,7,true
+5,4,true
+5,585,true
+5,578,true
+5,108,true
+5,530,true
+5,258,true
+5,444,true
+5,538,true
+5,39,true
+5,584,true
+5,534,true
+5,563,true
+5,539,true
+5,522,true
+5,441,true
+5,104,true
+5,596,true
+5,598,true
+5,551,true
+5,579,true
+5,597,true
+5,533,true
+5,507,true
+5,486,true
+5,471,true
+5,247,true
+5,446,true
+5,472,true
+5,531,true
+5,587,true
+5,574,true
+5,65,true
+5,362,true
+5,16,true
+5,508,true
+6,105,true
+6,556,true
+6,228,true
+6,513,true
+6,108,true
+6,518,true
+6,381,true
+6,534,true
+6,152,true
+6,193,true
+6,245,true
+6,537,true
+6,337,true
+6,103,true
+6,493,true
+6,354,true
+6,384,true
+6,316,true
+6,55,true
+6,200,true
+6,535,true
+6,320,true
+6,512,true
+6,500,true
+6,268,true
+6,564,true
+6,471,true
+6,590,true
+6,191,true
+6,328,true
+6,1,true
+6,574,true
+6,23,true
+6,93,true
+6,519,true
+6,406,true
+6,502,true
+6,538,true
+6,205,true
+6,255,true
+6,202,true
+6,515,true
+6,199,true
+6,227,true
+6,233,true
+6,597,true
+6,372,true
+6,504,true
+6,323,true
+6,587,true
+6,60,true
+6,581,true
+6,134,true
+6,96,true
+6,598,true
+6,341,true
+6,539,true
+6,492,true
+6,336,true
+6,198,true
+6,507,true
+6,203,true
+6,501,true
+6,292,true
+6,91,true
+6,531,true
+6,161,true
+6,560,true
+6,431,true
+6,143,true
+7,552,true
+7,596,true
+7,598,true
+7,8,true
+7,597,true
+7,4,true
+7,441,true
+7,207,true
+7,340,true
+7,26,true
+8,10,true
+8,204,true
+8,493,true
+8,578,true
+8,200,true
+8,590,true
+8,340,true
+8,471,true
+8,552,true
+8,536,true
+8,502,true
+8,17,true
+8,594,true
+8,581,true
+8,499,true
+8,586,true
+8,538,true
+8,539,true
+8,12,true
+9,596,true
+9,7,true
+9,4,true
+9,17,true
+9,597,true
+9,598,true
+9,207,true
+9,26,true
+9,11,true
+10,553,true
+10,552,true
+10,7,true
+10,587,true
+10,597,true
+10,8,true
+10,26,true
+10,17,true
+11,553,true
+11,552,true
+11,596,true
+11,7,true
+11,598,true
+11,597,true
+11,17,true
+12,552,true
+12,7,true
+12,4,true
+12,207,true
+12,597,true
+12,553,true
+12,8,true
+12,26,true
+12,19,true
+12,11,true
+13,552,true
+13,441,true
+13,79,true
+13,553,true
+13,200,true
+13,194,true
+13,536,true
+13,192,true
+13,538,true
+13,584,true
+13,37,true
+13,539,true
+13,195,true
+13,202,true
+13,198,true
+13,535,true
+13,193,true
+13,598,true
+13,522,true
+13,207,true
+13,374,true
+13,500,true
+13,203,true
+13,537,true
+13,573,true
+13,18,true
+13,197,true
+13,196,true
+13,501,true
+13,191,true
+13,581,true
+13,1,true
+13,587,true
+14,18,true
+14,552,true
+14,254,true
+14,441,true
+14,575,true
+14,553,true
+14,480,true
+14,200,true
+14,194,true
+14,535,true
+14,536,true
+14,354,true
+14,192,true
+14,571,true
+14,502,true
+14,538,true
+14,584,true
+14,37,true
+14,195,true
+14,198,true
+14,193,true
+14,598,true
+14,522,true
+14,374,true
+14,203,true
+14,537,true
+14,573,true
+14,13,true
+14,197,true
+14,590,true
+14,196,true
+14,587,true
+14,594,true
+14,593,true
+14,581,true
+14,1,true
+15,43,true
+15,530,true
+15,534,true
+15,420,true
+15,579,true
+15,59,true
+15,498,true
+15,495,true
+15,411,true
+15,496,true
+15,497,true
+15,164,true
+15,424,true
+15,529,true
+15,165,true
+15,247,true
+15,271,true
+15,129,true
+15,231,true
+15,242,true
+15,421,true
+15,166,true
+15,467,true
+15,62,true
+15,524,true
+15,422,true
+15,225,true
+15,472,true
+15,163,true
+15,64,true
+15,531,true
+15,348,true
+15,16,true
