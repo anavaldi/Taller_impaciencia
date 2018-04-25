@@ -1,5 +1,5 @@
 # Taller_impaciencia
-###### Social Media Analysis Workshop for the [impaciencia Festival 2018](http://www.impaciencia.org/festival/)
+###### Social Media Analysis Workshop for the [impaciencia Festival 2018](http://www.impaciencia.org/festival/).
 
 [![alt text](https://github.com/anavaldi/Taller_impaciencia/blob/master/portada.png "Portada")](http://www.impaciencia.org/festival/)
 
