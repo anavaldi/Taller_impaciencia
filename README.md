@@ -1,6 +1,5 @@
 # Taller_impaciencia
 ###### Social Media Analysis Workshop for the [impaciencia Festival 2018](http://www.impaciencia.org/festival/).
-## Presentación 
 
 Las redes sociales han provocado una revolución a nivel social y tecnológico. La
 cantidad de información que se almacena en webs como Facebook, Twitter,
